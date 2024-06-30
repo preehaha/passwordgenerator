@@ -1,4 +1,4 @@
-# passwordgenerator
+# Password Generator
 Welcome to the PyPassword Generator, where your boring old passwords get a fabulous makeover! 
 Say goodbye to "password123" and hello to a world of secure unpredictable passwords.
 
